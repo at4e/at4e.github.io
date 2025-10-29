@@ -1,15 +1,3 @@
-# Улыбнись :)
-# Новых обновлений пока что не было.
-
-- [🖥️ Навигация в дизайне, а не через readme // The Gate](https://at4e.github.io/start.html) 
-- [📁 GitHub репозиторий](https://github.com/at4e/at4e.github.io)
-- [🌐 Печатный дом](https://at4e.github.io/pechatdom/index.html)
-
-- [📊Аниме Tierlist](https://at4e.github.io/tier-list-editor/anime/index.html)
-- [🎮Игровой Tierlist](https://at4e.github.io/tier-list-editor/games/index.html)
-- [📺ReYohoho — Здесь удобный просмотр фильмов и сериалов.](https://reyohoho.github.io/reyohoho/)
-
-
 # 😊 Улыбнись, странник GitHub'а!
 
 Привет! Здесь я экспериментирую, создаю и собираю интересные штуки.
