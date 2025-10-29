@@ -1,0 +1,44 @@
+{
+  "tier-1761570627061": {
+    "name": "S",
+    "label": "Шедевр",
+    "color": "#ff7f7e",
+    "characters": []
+  },
+  "tier-1761570684364": {
+    "name": "A",
+    "label": "10/10",
+    "color": "#ffbf7f",
+    "characters": []
+  },
+  "tier-1761570818964": {
+    "name": "B",
+    "label": "Хорошее",
+    "color": "#ffdf80",
+    "characters": []
+  },
+  "tier-1761570898420": {
+    "name": "C",
+    "label": "Норм",
+    "color": "#feff7f",
+    "characters": []
+  },
+  "tier-1761571024724": {
+    "name": "D",
+    "label": "Не дотягивает",
+    "color": "#c0fe7f",
+    "characters": []
+  },
+  "tier-1761571048348": {
+    "name": "SHIT",
+    "label": "",
+    "color": "#7fbfff",
+    "characters": []
+  },
+  "tier-unassigned": {
+    "name": "ALL",
+    "label": "",
+    "color": "#666666",
+    "characters": []
+  }
+}

@@ -1,0 +1,574 @@
+{
+  "tier-1761570627061": {
+    "name": "S",
+    "label": "Шедевр",
+    "color": "#ff7f7e",
+    "characters": [
+      {
+        "title": "Атака Титанов",
+        "image": "pic/attack-on-titan.png"
+      },
+      {
+        "title": "Тетрадь Смерти",
+        "image": "pic/death-note.png"
+      },
+      {
+        "title": "Унесенные Призраками",
+        "image": "pic/spirited-away.png"
+      }
+    ]
+  },
+  "tier-1761570684364": {
+    "name": "A",
+    "label": "9/10",
+    "color": "#ffbf7f",
+    "characters": [
+      {
+        "title": "Бакемоногатари",
+        "image": "pic/bakemonogatari.png"
+      },
+      {
+        "title": "Твое Имя",
+        "image": "pic/your-name.png"
+      },
+      {
+        "title": "Форма Голоса",
+        "image": "pic/a-silent-voice.png"
+      },
+      {
+        "title": "Берсерк",
+        "image": "pic/zzzzz-1726977239berserk-the-golden-age-arc-ii---the-battle-for-doldrey.png"
+      },
+      {
+        "title": "О движении Земли",
+        "image": "pic/zzzzz-1750166012orb.png"
+      },
+      {
+        "title": "Провожающая в последний путь Фрирен",
+        "image": "pic/frieren.png"
+      },
+      {
+        "title": "Ходячий Замок",
+        "image": "pic/howls-moving-castle.png"
+      }
+    ]
+  },
+  "tier-1761570818964": {
+    "name": "B",
+    "label": "Хорошее",
+    "color": "#ffdf80",
+    "characters": [
+      {
+        "title": "Паразит",
+        "image": "pic/parasyte.png"
+      },
+      {
+        "title": "Re Zero",
+        "image": "pic/re-zero.png"
+      },
+      {
+        "title": "Харухи Судзумии",
+        "image": "pic/haruhi-suzumiya.png"
+      },
+      {
+        "title": "Гримгал пепла и иллюзий",
+        "image": "pic/zzzzz-1725974643grimgar.png"
+      },
+      {
+        "title": "Record of Lodoss War",
+        "image": "pic/zzzzz-1727874703record-of-lodoss-war.png"
+      },
+      {
+        "title": "Адский Рай",
+        "image": "pic/zzzzz-1726061511jigokuraku.png"
+      },
+      {
+        "title": "Дороро",
+        "image": "pic/dororo.png"
+      },
+      {
+        "title": "91 День",
+        "image": "pic/zzzzz-172570524691-days.png"
+      },
+      {
+        "title": "86",
+        "image": "pic/86.png"
+      },
+      {
+        "title": "Парад Смерти",
+        "image": "pic/death-parade.png"
+      },
+      {
+        "title": "Токийский Гуль",
+        "image": "pic/tokyo-ghoul-a.png"
+      },
+      {
+        "title": "Повелитель Тайн",
+        "image": "pic/zzzzz-1757515017lord-of-mysteries.png"
+      },
+      {
+        "title": "Сонни Бой",
+        "image": "pic/zzzzz-1726307817sonny-boy.png"
+      },
+      {
+        "title": "Империя Трупов",
+        "image": "pic/zzzzz-1729258574the-empire-of-corpses.png"
+      },
+      {
+        "title": "Принцесса Мононоке",
+        "image": "pic/princess-mononoke.png"
+      },
+      {
+        "title": "Мальчик и Птица",
+        "image": "pic/zzzzz-1728731205the-boy-and-the-heron.png"
+      },
+      {
+        "title": "Клеймор",
+        "image": "pic/zzzzz-1725705247claymore.png"
+      },
+      {
+        "title": "Герои шести цветов",
+        "image": "pic/zzzzz-1726749574rokka-no-yuusha.png"
+      },
+      {
+        "title": "Убийца Акаме!",
+        "image": "pic/akame-ga-kill.png"
+      },
+      {
+        "title": "Когда плачут цикады",
+        "image": "pic/higurashi-gou.png"
+      },
+      {
+        "title": "Волчица и Пряности",
+        "image": "pic/spice-and-wolf.png"
+      },
+      {
+        "title": "Укрась прощальное утро цветами обещания",
+        "image": "pic/zzzzz-1726150425maquia.png"
+      },
+      {
+        "title": "Необъятный океан",
+        "image": "pic/grand-blue.png"
+      },
+      {
+        "title": "Приоритет Чудо Яйца",
+        "image": "pic/zzzzz-1728046556wonder-egg-priority.png"
+      },
+      {
+        "title": "Что, если чрезвычайно развитая ролевая игра с полным погружением вызывает большее привыкание, чем реальность",
+        "image": "pic/zzzzz-1727182455full-dive.png"
+      }
+    ]
+  },
+  "tier-1761570898420": {
+    "name": "C",
+    "label": "Норм",
+    "color": "#feff7f",
+    "characters": [
+      {
+        "title": "Клинок Рассекающий Демонов",
+        "image": "pic/kimetsu-no-yaiba.png"
+      },
+      {
+        "title": "Синяя Тюрьма",
+        "image": "pic/blue-lock.png"
+      },
+      {
+        "title": "Devilman CryBaby",
+        "image": "pic/devilman-crybaby.png"
+      },
+      {
+        "title": "Школа Мертвецов",
+        "image": "pic/highschool-of-the-dead.png"
+      },
+      {
+        "title": "Solo Leveling",
+        "image": "pic/solo-leveling.png"
+      },
+      {
+        "title": "Cyberpunk Edgerunners",
+        "image": "pic/cyberpunk-edgerunners.png"
+      },
+      {
+        "title": "Убийца Гоблинов",
+        "image": "pic/zzzzz-1725974643goblin-slayer.png"
+      },
+      {
+        "title": "Кабанери",
+        "image": "pic/zzzzz-1726061511kabaneri.png"
+      },
+      {
+        "title": "Человек Бензопила",
+        "image": "pic/chainsaw-man.png"
+      },
+      {
+        "title": "Инуяшики",
+        "image": "pic/zzzzz-1726061511inuyashiki.png"
+      },
+      {
+        "title": "Вкусности В Подземелье",
+        "image": "pic/zzzzz-1725796806delicious-in-dungeon.png"
+      },
+      {
+        "title": "Platinum End",
+        "image": "pic/zzzzz-1726749574platinum-end.png"
+      },
+      {
+        "title": "To Your Eternity",
+        "image": "pic/to-your-eternity.png"
+      },
+      {
+        "title": "Эрго Прокси",
+        "image": "pic/ergo-proxy.png"
+      },
+      {
+        "title": "Созданный В Бездне",
+        "image": "pic/made-in-abyss.png"
+      },
+      {
+        "title": "Mushoku Tensei",
+        "image": "pic/mushoku-tensei.png"
+      },
+      {
+        "title": "SAO",
+        "image": "pic/zzzzz-1726749574sao-progressive-movie.png"
+      },
+      {
+        "title": "Какэгуруи",
+        "image": "pic/kakegurui.png"
+      },
+      {
+        "title": "Зом 100",
+        "image": "pic/zzzzz-1728143222zom-100.png"
+      },
+      {
+        "title": "Обещанный Неверленд",
+        "image": "pic/the-promised-neverland-season-2.png"
+      },
+      {
+        "title": "Сага О Винланде",
+        "image": "pic/vinland-saga.png"
+      },
+      {
+        "title": "Болтун",
+        "image": "pic/zzzzz-1750166013the-most-notorious-talker-runs-the-worlds-greatest-clan.png"
+      },
+      {
+        "title": "Blood-C",
+        "image": "pic/zzzzz-1725796806blood-c.png"
+      },
+      {
+        "title": "Спираль",
+        "image": "pic/zzzzz-1750166013uzumaki.png"
+      },
+      {
+        "title": "Последний Серафим",
+        "image": "pic/seraph-of-the-end.png"
+      },
+      {
+        "title": "Старшая Школа DXD",
+        "image": "pic/high-school-dxd.png"
+      },
+      {
+        "title": "Welcome to the NHK",
+        "image": "pic/welcome-to-the-nhk.png"
+      },
+      {
+        "title": "Шарлотта",
+        "image": "pic/charlotte.png"
+      },
+      {
+        "title": "Владыка",
+        "image": "pic/overlord.png"
+      },
+      {
+        "title": "Призрак В Доспехах",
+        "image": "pic/ghost-in-the-shell.png"
+      },
+      {
+        "title": "Город в котором меня нет",
+        "image": "pic/erased.png"
+      },
+      {
+        "title": "Госпожа Кагуя",
+        "image": "pic/kaguya-sama.png"
+      },
+      {
+        "title": "Агенты Времени",
+        "image": "pic/link-click.png"
+      },
+      {
+        "title": "Охотник На Вампиров Д",
+        "image": "pic/zzzzz-1728046555vampire-hunter-d.png"
+      },
+      {
+        "title": "Судьба Ночь",
+        "image": "pic/zzzzz-1726491990fate-stay-night-heavens-feel.png"
+      },
+      {
+        "title": "Нет Игры Нет Жизни",
+        "image": "pic/no-game-no-life.png"
+      },
+      {
+        "title": "Виолетта Эвергарден",
+        "image": "pic/violet-evergarden.png"
+      }
+    ]
+  },
+  "tier-1761571024724": {
+    "name": "D",
+    "label": "Не дотягивает",
+    "color": "#c0fe7f",
+    "characters": [
+      {
+        "title": "Арифурета",
+        "image": "pic/zzzzz-1725705246arifureta.png"
+      },
+      {
+        "title": "Восхождение Героя Щита",
+        "image": "pic/the-rising-of-the-shield-hero.png"
+      },
+      {
+        "title": "Дарлинг In The Franxx",
+        "image": "pic/darling-in-the-franxx.png"
+      },
+      {
+        "title": "Башня Бога",
+        "image": "pic/zzzzz-1726911570tower-of-god.png"
+      },
+      {
+        "title": "Код Гиас",
+        "image": "pic/code-geass-lelouch-of-the-rebellion.png"
+      },
+      {
+        "title": "Охотник Х Охотник",
+        "image": "pic/hunter-x-hunter.png"
+      },
+      {
+        "title": "Хроники Рагнарёка",
+        "image": "pic/zzzzz-1726749574record-of-ragnarok.png"
+      },
+      {
+        "title": "Другое",
+        "image": "pic/another.png"
+      },
+      {
+        "title": "Девочка, которая видит это",
+        "image": "pic/zzzzz-1726233132mieruko-chan.png"
+      },
+      {
+        "title": "Дневник Будущего",
+        "image": "pic/mirai-nikki.png"
+      },
+      {
+        "title": "Игра Друзей",
+        "image": "pic/zzzzz-1726911570tomodachi-game.png"
+      },
+      {
+        "title": "Тоухай",
+        "image": "pic/zzzzz-1750166013touhai.png"
+      },
+      {
+        "title": "Ночной Изгой",
+        "image": "pic/zzzzz-1728143221yofukashi-no-uta.png"
+      },
+      {
+        "title": "Убель Блатт",
+        "image": "pic/zzzzz-1750166013ubel-blatt.png"
+      },
+      {
+        "title": "Акудама Драйв",
+        "image": "pic/zzzzz-1725796806akudama-drive.png"
+      },
+      {
+        "title": "Кемоно Джихен",
+        "image": "pic/zzzzz-1726579730kemono-jihen.png"
+      },
+      {
+        "title": "Звездное Дитя",
+        "image": "pic/oshi-no-ko.png"
+      },
+      {
+        "title": "Привет Мир",
+        "image": "pic/zzzzz-1726667516hello-world.png"
+      },
+      {
+        "title": "Врата",
+        "image": "pic/zzzzz-1725974643gate.png"
+      },
+      {
+        "title": "Перерождение В Меч",
+        "image": "pic/zzzzz-1726749574reincarnated-as-a-sword.png"
+      },
+      {
+        "title": "Дядя Из Другого Мира",
+        "image": "pic/zzzzz-1726579729isekai-ojisan.png"
+      },
+      {
+        "title": "Ванпанчмен",
+        "image": "pic/one-punch-man.png"
+      },
+      {
+        "title": "Бездомный Бог",
+        "image": "pic/noragami.png"
+      },
+      {
+        "title": "Эхо Террора",
+        "image": "pic/terror-in-resonance.png"
+      },
+      {
+        "title": "Токийские Мстители",
+        "image": "pic/tokyo-revengers.png"
+      },
+      {
+        "title": "Ангелы Смерти",
+        "image": "pic/zzzzz-1725705246angels-of-death.png"
+      },
+      {
+        "title": "Тюремная Школа",
+        "image": "pic/zzzzz-1726307815prison-school.png"
+      },
+      {
+        "title": "Класс Убийц",
+        "image": "pic/assassination-classroom.png"
+      },
+      {
+        "title": "Данмачи",
+        "image": "pic/danmachi.png"
+      },
+      {
+        "title": "Синий Экзорцист",
+        "image": "pic/blue-exorcist.png"
+      },
+      {
+        "title": "Великий Учитель Онидзука",
+        "image": "pic/great-teacher-onizuka.png"
+      },
+      {
+        "title": "Редо Хилер",
+        "image": "pic/zzzzz-1726307815redo-of-healer.png"
+      },
+      {
+        "title": "Дрифтеры",
+        "image": "pic/zzzzz-1725887459drifters.png"
+      },
+      {
+        "title": "Доктор Стоун",
+        "image": "pic/dr-stone.png"
+      },
+      {
+        "title": "Эльфийская Песнь",
+        "image": "pic/elfen-lied.png"
+      },
+      {
+        "title": "Хеллсинг",
+        "image": "pic/hellsing-ultimate.png"
+      },
+      {
+        "title": "Магическая Битва",
+        "image": "pic/jujutsu-kaisen.png"
+      },
+      {
+        "title": "Лог Горизонт",
+        "image": "pic/log-horizon.png"
+      },
+      {
+        "title": "Бтум",
+        "image": "pic/zzzzz-1725796806btooom.png"
+      },
+      {
+        "title": "Нинген Фушин",
+        "image": "pic/zzzzz-1727792589ningen-fushin.png"
+      },
+      {
+        "title": "Ковбой Бибоп",
+        "image": "pic/cowboy-bebop.png"
+      },
+      {
+        "title": "Шики",
+        "image": "pic/zzzzz-1726307816shiki.png"
+      },
+      {
+        "title": "Страна Чудес Смертника",
+        "image": "pic/zzzzz-1725796806deadman-wonderland.png"
+      },
+      {
+        "title": "За Гранью",
+        "image": "pic/kyoukai-no-kanata.png"
+      },
+      {
+        "title": "Паладин",
+        "image": "pic/zzzzz-1727441370saihate-no-paladin.png"
+      }
+    ]
+  },
+  "tier-1761571048348": {
+    "name": "SHIT",
+    "label": "",
+    "color": "#7fbfff",
+    "characters": [
+      {
+        "title": "Черный Клевер",
+        "image": "pic/black-clover.png"
+      },
+      {
+        "title": "Огненный Батальон",
+        "image": "pic/fire-force.png"
+      },
+      {
+        "title": "Хвост Феи",
+        "image": "pic/fairy-tail.png"
+      },
+      {
+        "title": "Гуррен Лаганн",
+        "image": "pic/gurren-lagann.png"
+      },
+      {
+        "title": "Наруто",
+        "image": "pic/naruto-shippuden.png"
+      },
+      {
+        "title": "Семь Смертных Грехов",
+        "image": "pic/nanatsu-no-taizai.png"
+      },
+      {
+        "title": "Слизь",
+        "image": "pic/slime.png"
+      },
+      {
+        "title": "Монстр",
+        "image": "pic/monster.png"
+      },
+      {
+        "title": "Евангелион",
+        "image": "pic/neon-genesis-evangelion.png"
+      },
+      {
+        "title": "Академия Героев",
+        "image": "pic/my-hero-academia-season-2.png"
+      },
+      {
+        "title": "Лэйн",
+        "image": "pic/serial-experiments-lain.png"
+      },
+      {
+        "title": "Сага О Танье",
+        "image": "pic/youjo-senki.png"
+      },
+      {
+        "title": "Боруто",
+        "image": "pic/zzzzz-1725705247boruto.png"
+      },
+      {
+        "title": "Академия Героев Фильм 3",
+        "image": "pic/zzzzz-1726977239boku-no-hero-academia-the-movie-3.png"
+      }
+    ]
+  },
+  "tier-unassigned": {
+    "name": "ALL",
+    "label": "",
+    "color": "#666666",
+    "characters": []
+  }
+}
