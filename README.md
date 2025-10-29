@@ -1,23 +1,19 @@
-# 👋 Улыбнись, товарищ!
+# 👋 Hello world!
 
-*✧･ﾟ: Добро пожаловать в моё творческое пространство *:･ﾟ✧*  
 Здесь я экспериментирую, создаю и собираю интересные штуки
-
+- [📁GitHub Репозиторий](https://github.com/at4e/at4e.github.io)
 ---
 
 ## 📂 Проекты
 
 **🌐 Веб-разработка**
-- [🖥️ The Gate](https://at4e.github.io/gate.html) — Навигация по проектам `✅ Active`
-- [🖨️ Печатный дом](https://at4e.github.io/pechatdom/index.html) — Сайт типографии `🚧 Dev`
-- [📊 Тирлисты](https://at4e.github.io/tier-list-editor/anime/index.html) — Рейтинги `🚧 Dev`
-
-**🛠️ Инструменты**
-- [📁 GitHub](https://github.com/at4e/at4e.github.io) — Исходный код `⚡ Active`
-
+- [🖥️ The Gate](https://at4e.github.io/gate.html) — Навигация по проектам `✅ Работает`
+- [🖨️ Печатный дом](https://at4e.github.io/pechatdom/index.html) — Сайт типографии `🚧 DEV`
+- [📊 Тирлисты](https://at4e.github.io/tier-list-editor/anime/index.html) — Рейтинги `🚧 DEV`
+- 
 ---
 
-## ⭐ Коллекция
+## ⭐ Маст-хэв коллекция
 
 *✧･ﾟ: Лучшие инструменты и ресурсы *:･ﾟ✧*
 
@@ -33,5 +29,5 @@
 
 **GitHub**: [@at4e](https://github.com/at4e)
 
-ฅ^•ﻌ•^ฅ *Сделано с ❤️ и кофе*  
+*Сделано с ❤️ и большим количеством кофе* ฅ^•ﻌ•^ฅ  
 `Последнее обновление: 29.10.2025`
