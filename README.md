@@ -31,7 +31,7 @@
 
 
 ### 🔧 Утилиты & Инструменты
-- [🔒Flowseal-Zapret](https://github.com/Flowseal/zapret-discord-youtube) — Flowseal - хороший человек, я его знаю, как хорошего человека.
+- [🔒Flowseal-Zapret](https://github.com/Flowseal/zapret-discord-youtube) — Он хороший человек, я его знаю как хорошего человека
 
 ---
 
